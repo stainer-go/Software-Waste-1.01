@@ -1,5 +1,13 @@
+![PROJECT_PHOTO](https://github.com/stainer-go/Programm-Waste-1.01/blob/master/Waste.png)
 # Programm-Waste-1.01
-Waste calculation program by Dmitry Shulga
-#
-WASTE MANAGEMENT PROGRAM IN OPEN JOINT STOCK COMPANY
-“Soligorsk Institute of Resources Saving Problems with Pilot Production”»
+
+## Описание программы
+Представляю вашему вниманию программу для расчета отходов из листового материала!
+
+### Железо
+- Проект создан в среде разработки Delphi.
+
+### Фишки
+- Вычисление отходов металла после его раскроя на плазменном оборудовании "Кристалл".
+- Вычисление отходов металла после его раскроя на газорезательном оборудовании "ESAB"
+- Сохранение результатов на диск. 
