@@ -1,5 +1,5 @@
 ![PROJECT_PHOTO](https://github.com/stainer-go/Programm-Waste-1.01/blob/master/Waste.png)
-# Programm-Waste-1.01
+# Software-Waste-1.01
 
 ## Описание программы
 Представляю вашему вниманию программу для расчета отходов из листового материала!
